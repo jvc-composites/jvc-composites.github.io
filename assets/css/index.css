@@ -1,0 +1,27 @@
+body{
+    background-color: #F0EADE !important;
+    color: #F0EADE !important;
+}
+
+.navbar{
+    background-color: #F0EADE !important; 
+    color: #506863 !important;
+}
+
+.nav-link{
+    color: #292B27 !important;
+}
+
+.text-color-white{
+    color: #F0EADE !important;
+}
+
+.text-color-green{
+    color: #506863!important;
+}
+
+footer{
+    background-color: #F0EADE !important; 
+    color: red !important;
+
+}
