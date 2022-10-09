@@ -20,8 +20,19 @@ body{
     color: #506863!important;
 }
 
+.btn-cream{
+    background-color: #F0EADE !important; 
+    color: #506863 !important;
+    font-size: 15px;
+}
+
+.btn-cream:hover{
+    background-color: #F0EADE;
+    border-color: #F0EADE;
+    box-shadow: 0 14px 26px -12px rgba(255, 255, 255, 0.4), 0 4px 23px 0 rgba(255, 255, 255, 0.15), 0 8px 10px -5px rgba(255, 255, 255, 0.2);
+}
+
 footer{
     background-color: #F0EADE !important; 
     color: red !important;
-
 }
