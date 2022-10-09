@@ -16,13 +16,17 @@ body{
     color: #F0EADE !important;
 }
 
+.text-color-black{
+    color: #292B27 !important;
+}
+
 .text-color-green{
     color: #506863!important;
 }
 
 .btn-cream{
     background-color: #F0EADE !important; 
-    color: #506863 !important;
+    color: #292B27 !important;
     font-size: 15px;
 }
 
