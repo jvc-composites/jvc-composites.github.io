@@ -1,0 +1,11 @@
+.fondo{
+    background-color: #4E5C58 !important;
+}
+
+.shadow-primary {
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.14), 0 7px 10px -5px #4E5C58 !important;
+}
+
+.fondo-blanco{
+    background-color: #F0EADE ;
+}
